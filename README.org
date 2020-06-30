@@ -7,7 +7,8 @@
 #+OPTIONS:   H:4 toc:t num:2
 
 #+PROPERTY:  header-args :padline no
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+
+#+SETUPFILE: ~/org/aw-org-html-themes/setup/theme-readtheorg-local.setup
 
 #+html: <a href="http://opensource.org/licenses/GPL-3.0">
 #+html:   <img src="http://img.shields.io/:license-gpl-blue.svg" alt=":license-gpl-blue.svg" />

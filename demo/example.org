@@ -5,7 +5,9 @@
 #+LANGUAGE:  en
 #+OPTIONS:   H:4 num:nil toc:2
 
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+;;#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: ~/org/aw-org-html-themes/setup/theme-readtheorg-local.setup
+
 
 #+begin_export html
 <div class="right">
