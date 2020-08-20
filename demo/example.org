@@ -1,12 +1,14 @@
+#+SETUPFILE: ~/org/aw-org-html-themes/setup/theme-readtheorg-local.setup
+#+Options: \n:t ^:{}
+#+HTML_LINK_HOME: /orgweb/index.html
+#+HTML_LINK_UP: /orgweb/index.html
+
 #+TITLE:     Example of Tasks
 #+AUTHOR:    Fabrice Niessen
 #+EMAIL:     (concat "fniessen" at-sign "pirilampo.org")
 #+DATE:      2015-04-28
 #+LANGUAGE:  en
 #+OPTIONS:   H:4 num:nil toc:2
-
-;;#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
-#+SETUPFILE: ~/org/aw-org-html-themes/setup/theme-readtheorg-local.setup
 
 
 #+begin_export html
@@ -158,3 +160,13 @@ Marathon = 42.195 kilometres.
 ** Recreation
 
 *** TODO Go to concert
+
+* Test
+
+Including a picture.
+Where does the picture path start?
+Relativ to the path of the org-file.
+
+#+DOWNLOADED: file:///home/lubuntu/Desktop/1565435.png @ 2020-07-08 15:10:27
+#+att_html: :width 100
+[[file:images/Test/2020-07-08_15-10-27_1565435.png][file:images/Test/2020-07-08_15-10-27_1565435.png]]
